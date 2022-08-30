@@ -1,427 +1,1016 @@
 #EXTM3U
-#EXTINF:0 tvg-id="RTK.al" group-title="Channels",AL: RTK 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36621
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 3
-http://viperos.net:8080/User18542/WX22GRSm4r/36623
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTK 4
-http://viperos.net:8080/User18542/WX22GRSm4r/36624
-#EXTINF:0 tvg-id="KTV.al" group-title="Channels",AL: KTV
-http://viperos.net:8080/User18542/WX22GRSm4r/36626
-#EXTINF:0 tvg-id="RTV21.al" group-title="Channels",AL: RTV 21
-http://viperos.net:8080/User18542/WX22GRSm4r/36627
-#EXTINF:0 tvg-id="KlanKosova.al" group-title="Channels",AL: Klan Kosova
-http://viperos.net:8080/User18542/WX22GRSm4r/36628
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: TV Dukagjini HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36629
-#EXTINF:0 tvg-id="TopChannel.al" group-title="Channels",AL: Top Channel
-http://viperos.net:8080/User18542/WX22GRSm4r/36630
-#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Channels",AL: Klan FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/36631
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Klan Plus
-http://viperos.net:8080/User18542/WX22GRSm4r/36632
-#EXTINF:0 tvg-id="AlsatM.al" group-title="Channels",AL: Alsat M
-http://viperos.net:8080/User18542/WX22GRSm4r/36633
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: T7
-http://viperos.net:8080/User18542/WX22GRSm4r/36634
-#EXTINF:0 tvg-id="RrokumTV.al" group-title="Channels",AL: Rrokum
-http://viperos.net:8080/User18542/WX22GRSm4r/36635
-#EXTINF:0 tvg-id="FirstChannel.al" group-title="Channels",AL: First TV
-http://viperos.net:8080/User18542/WX22GRSm4r/36636
-#EXTINF:0 tvg-id="VizionPlus.al" group-title="Channels",AL: Vizion Plus
-http://viperos.net:8080/User18542/WX22GRSm4r/36637
-#EXTINF:0 tvg-id="TopNews.al" group-title="Channels",AL: Top News
-http://viperos.net:8080/User18542/WX22GRSm4r/36638
-#EXTINF:0 tvg-id="3Plus.al" group-title="Channels",AL: 3 Plus
-http://viperos.net:8080/User18542/WX22GRSm4r/36639
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Dugagjini TV HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36640
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Arta News HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36641
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Koha TV HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36643
-#EXTINF:0 tvg-id="OraNews.al" group-title="Channels",AL: ORA News HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36644
-#EXTINF:0 tvg-id="TopNews.al" group-title="Channels",AL: Top News (Backup)
-http://viperos.net:8080/User18542/WX22GRSm4r/36645
-#EXTINF:0 tvg-id="ABCNews.al" group-title="Channels",AL: ABC News
-http://viperos.net:8080/User18542/WX22GRSm4r/36646
-#EXTINF:0 tvg-id="News24.al" group-title="Channels",AL: News 24
-http://viperos.net:8080/User18542/WX22GRSm4r/36647
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: ALB UK
-http://viperos.net:8080/User18542/WX22GRSm4r/36648
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: RTSH 24
-http://viperos.net:8080/User18542/WX22GRSm4r/36649
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Peace TV Shqip HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36650
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Besa TV
-http://viperos.net:8080/User18542/WX22GRSm4r/36651
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Mitrovica
-http://viperos.net:8080/User18542/WX22GRSm4r/36652
-#EXTINF:0 tvg-id="ETV.al" group-title="Channels",AL: ERA TV
-http://viperos.net:8080/User18542/WX22GRSm4r/36653
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Rtv Islam
-http://viperos.net:8080/User18542/WX22GRSm4r/36658
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL: Mekka Live
-http://viperos.net:8080/User18542/WX22GRSm4r/36660
+#EXTINF:0 tvg-id="RTK.al" group-title="KOMBETARE & LOKALE",RTK 1
+http://lilitv.xyz:80/Iliri/Leshan/1282
+#EXTINF:0 tvg-id="RTK.al" group-title="KOMBETARE & LOKALE",RTK 1 HD
+http://lilitv.xyz:80/Iliri/Leshan/1283
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTK 3 HD
+http://lilitv.xyz:80/Iliri/Leshan/1285
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KANAL 10 HD
+http://lilitv.xyz:80/Iliri/Leshan/1378
+#EXTINF:0 tvg-id="ATV.tr" group-title="KOMBETARE & LOKALE",A TV
+http://lilitv.xyz:80/Iliri/Leshan/11963
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",A TV (B)
+http://lilitv.xyz:80/Iliri/Leshan/11203
+#EXTINF:0 tvg-id="TopNews.al" group-title="KOMBETARE & LOKALE",TOP news
+http://lilitv.xyz:80/Iliri/Leshan/1297
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",21 RTV HD
+http://lilitv.xyz:80/Iliri/Leshan/11960
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",21 RTV HD
+http://lilitv.xyz:80/Iliri/Leshan/1298
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KTV KOHAVIZION HD (B)
+http://lilitv.xyz:80/Iliri/Leshan/11961
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KTV KOHAVISION HD
+http://lilitv.xyz:80/Iliri/Leshan/1306
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="KOMBETARE & LOKALE",KLAN KOSOVA
+http://lilitv.xyz:80/Iliri/Leshan/1308
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KLAN KOSOVA (B)
+http://lilitv.xyz:80/Iliri/Leshan/11962
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KLAN | HD
+http://lilitv.xyz:80/Iliri/Leshan/1310
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KLAN | HD (B)
+http://lilitv.xyz:80/Iliri/Leshan/11967
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",DUKAGJINI
+http://lilitv.xyz:80/Iliri/Leshan/11964
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",DUKAGJINI (B)
+http://lilitv.xyz:80/Iliri/Leshan/1343
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",T7
+http://lilitv.xyz:80/Iliri/Leshan/11965
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",T7 (B)
+http://lilitv.xyz:80/Iliri/Leshan/1318
+#EXTINF:0 tvg-id="TopChannel.al" group-title="KOMBETARE & LOKALE",TOP CHANNEL
+http://lilitv.xyz:80/Iliri/Leshan/1293
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",TOP CHANNEL (B)
+http://lilitv.xyz:80/Iliri/Leshan/1294
+#EXTINF:0 tvg-id="AlsatM.al" group-title="KOMBETARE & LOKALE",ALSAT
+http://lilitv.xyz:80/Iliri/Leshan/1295
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",ALSAT (B)
+http://lilitv.xyz:80/Iliri/Leshan/1296
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",tëvë1 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41954
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",D TV
+http://lilitv.xyz:80/Iliri/Leshan/48946
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KLANPLUS
+http://lilitv.xyz:80/Iliri/Leshan/1313
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KLANPLUS (B)
+http://lilitv.xyz:80/Iliri/Leshan/11968
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",VIZION PLUS (B)
+http://lilitv.xyz:80/Iliri/Leshan/11966
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="KOMBETARE & LOKALE",VIZION PLUS
+http://lilitv.xyz:80/Iliri/Leshan/1314
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KANAL D DRAMA
+http://lilitv.xyz:80/Iliri/Leshan/1319
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",21 TV MAQEDONIA
+http://lilitv.xyz:80/Iliri/Leshan/1301
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",21 MIX HD
+http://lilitv.xyz:80/Iliri/Leshan/1302
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",21 PLUS
+http://lilitv.xyz:80/Iliri/Leshan/1303
+#EXTINF:0 tvg-id="21Popullore.al" group-title="KOMBETARE & LOKALE",21 POPULLORE
+http://lilitv.xyz:80/Iliri/Leshan/1304
+#EXTINF:0 tvg-id="KlanMaqedonia.al" group-title="KOMBETARE & LOKALE",KLAN MAQEDONIA
+http://lilitv.xyz:80/Iliri/Leshan/1309
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",TDC TIMELESS DRAMA
+http://lilitv.xyz:80/Iliri/Leshan/1316
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTK 2 HD
+http://lilitv.xyz:80/Iliri/Leshan/1284
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTK 4 HD
+http://lilitv.xyz:80/Iliri/Leshan/1286
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH 1 HD
+http://lilitv.xyz:80/Iliri/Leshan/36017
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH 2 HD
+http://lilitv.xyz:80/Iliri/Leshan/36018
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH 3
+http://lilitv.xyz:80/Iliri/Leshan/36019
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH 24
+http://lilitv.xyz:80/Iliri/Leshan/36020
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH shqip
+http://lilitv.xyz:80/Iliri/Leshan/36021
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH plus
+http://lilitv.xyz:80/Iliri/Leshan/36022
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH film
+http://lilitv.xyz:80/Iliri/Leshan/36023
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH agro
+http://lilitv.xyz:80/Iliri/Leshan/36024
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH femije
+http://lilitv.xyz:80/Iliri/Leshan/36025
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH Gjirokastra
+http://lilitv.xyz:80/Iliri/Leshan/36026
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH Korça
+http://lilitv.xyz:80/Iliri/Leshan/36027
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH Kukësi
+http://lilitv.xyz:80/Iliri/Leshan/36028
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH muzikë
+http://lilitv.xyz:80/Iliri/Leshan/36029
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH shkollë
+http://lilitv.xyz:80/Iliri/Leshan/36030
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTSH sport
+http://lilitv.xyz:80/Iliri/Leshan/36031
+#EXTINF:0 tvg-id="ort" group-title="KOMBETARE & LOKALE",first CHANNEL
+http://lilitv.xyz:80/Iliri/Leshan/1320
+#EXTINF:0 tvg-id="news24" group-title="KOMBETARE & LOKALE",News 24
+http://lilitv.xyz:80/Iliri/Leshan/1326
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",A2 CNN
+http://lilitv.xyz:80/Iliri/Leshan/1327
+#EXTINF:0 tvg-id="ABCNews.al" group-title="KOMBETARE & LOKALE",ABC News
+http://lilitv.xyz:80/Iliri/Leshan/1328
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",euronews ALBANIA
+http://lilitv.xyz:80/Iliri/Leshan/1329
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",REPORT TV HD
+http://lilitv.xyz:80/Iliri/Leshan/1330
+#EXTINF:0 tvg-id="OraNews.al" group-title="KOMBETARE & LOKALE",ORA news HD
+http://lilitv.xyz:80/Iliri/Leshan/1331
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",SYRI HD
+http://lilitv.xyz:80/Iliri/Leshan/36008
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",ARTA HD
+http://lilitv.xyz:80/Iliri/Leshan/1333
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",TEMA HD
+http://lilitv.xyz:80/Iliri/Leshan/1334
+#EXTINF:0 tvg-id="FaxNews.al" group-title="KOMBETARE & LOKALE",FaX NEWS
+http://lilitv.xyz:80/Iliri/Leshan/1369
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",SHENJA
+http://lilitv.xyz:80/Iliri/Leshan/1321
+#EXTINF:0 tvg-id="ERA.mk" group-title="KOMBETARE & LOKALE",ERA TV
+http://lilitv.xyz:80/Iliri/Leshan/1322
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",KOHA HD
+http://lilitv.xyz:80/Iliri/Leshan/1324
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",BESA
+http://lilitv.xyz:80/Iliri/Leshan/1350
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",Tv Opinion
+http://lilitv.xyz:80/Iliri/Leshan/1352
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",TV Prizreni
+http://lilitv.xyz:80/Iliri/Leshan/41872
+#EXTINF:0 tvg-id="MTV2.mk" group-title="KOMBETARE & LOKALE",MRT 2
+http://lilitv.xyz:80/Iliri/Leshan/1325
+#EXTINF:0 tvg-id="Kanali7.al" group-title="KOMBETARE & LOKALE",kanali 7
+http://lilitv.xyz:80/Iliri/Leshan/1335
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTV Pendimi HD
+http://lilitv.xyz:80/Iliri/Leshan/1336
+#EXTINF:0 tvg-id="PeaceTV.uk" group-title="KOMBETARE & LOKALE",Peace TV
+http://lilitv.xyz:80/Iliri/Leshan/1337
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTV ISLAM
+http://lilitv.xyz:80/Iliri/Leshan/1339
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",MEKKA live
+http://lilitv.xyz:80/Iliri/Leshan/1340
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",MEDINNE Live
+http://lilitv.xyz:80/Iliri/Leshan/1341
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",RTV MALISHEVA
+http://lilitv.xyz:80/Iliri/Leshan/1344
+#EXTINF:0 tvg-id="Muse.al" group-title="KOMBETARE & LOKALE",Muse
+http://lilitv.xyz:80/Iliri/Leshan/1348
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="KOMBETARE & LOKALE",STAR PLUS HD
+http://lilitv.xyz:80/Iliri/Leshan/1349
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",Rozafa
+http://lilitv.xyz:80/Iliri/Leshan/1377
+#EXTINF:0 tvg-id="TV2.dk" group-title="KOMBETARE & LOKALE",TV2
+http://lilitv.xyz:80/Iliri/Leshan/18754
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",TV LLAPI
+http://lilitv.xyz:80/Iliri/Leshan/36002
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",TV DRITA
+http://lilitv.xyz:80/Iliri/Leshan/36003
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",SYRI Vision
+http://lilitv.xyz:80/Iliri/Leshan/1351
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",SPIN TV HD
+http://lilitv.xyz:80/Iliri/Leshan/1354
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",MITRVOICA TV
+http://lilitv.xyz:80/Iliri/Leshan/1355
+#EXTINF:0 tvg-id="dwelle" group-title="KOMBETARE & LOKALE",Deutsche Welle
+http://lilitv.xyz:80/Iliri/Leshan/1365
+#EXTINF:0 tvg-id="FashionTV4K.eu" group-title="KOMBETARE & LOKALE",FASHION TV 4K
+http://lilitv.xyz:80/Iliri/Leshan/1367
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",21 BIZNES
+http://lilitv.xyz:80/Iliri/Leshan/1368
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",TV ULQINI
+http://lilitv.xyz:80/Iliri/Leshan/48943
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",TV TEUTA
+http://lilitv.xyz:80/Iliri/Leshan/48944
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",BOIN
+http://lilitv.xyz:80/Iliri/Leshan/48945
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",ATD HD
+http://lilitv.xyz:80/Iliri/Leshan/48948
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",ALPO HD
+http://lilitv.xyz:80/Iliri/Leshan/48949
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",APOLLON
+http://lilitv.xyz:80/Iliri/Leshan/48950
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",Syri Blue
+http://lilitv.xyz:80/Iliri/Leshan/48951
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",ALBUK
+http://lilitv.xyz:80/Iliri/Leshan/48952
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",7 TV
+http://lilitv.xyz:80/Iliri/Leshan/48953
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",Travelingo
+http://lilitv.xyz:80/Iliri/Leshan/48954
+#EXTINF:0 tvg-id="ext" group-title="KOMBETARE & LOKALE",MCN HD
+http://lilitv.xyz:80/Iliri/Leshan/48957
 
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Dokumentar",AL: -----Dokumentar-----
-http://viperos.net:8080/User18542/WX22GRSm4r/36663
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="AL: -----Dokumentar",AL: Explorer Shkence
-http://viperos.net:8080/User18542/WX22GRSm4r/36664
-#EXTINF:0 tvg-id="EXPNatyra.al" group-title="AL: -----Dokumentar",AL: Explorer Natyra
-http://viperos.net:8080/User18542/WX22GRSm4r/36665
-#EXTINF:0 tvg-id="EXPHistori.al" group-title="AL: -----Dokumentar",AL: Explorer Histori
-http://viperos.net:8080/User18542/WX22GRSm4r/36666
-#EXTINF:0 tvg-id="T-Hist.al" group-title="AL: -----Dokumentar",AL: Tring Histori
-http://viperos.net:8080/User18542/WX22GRSm4r/36667
-#EXTINF:0 tvg-id="TringPlanet.al" group-title="AL: -----Dokumentar",AL: Tring Planet
-http://viperos.net:8080/User18542/WX22GRSm4r/36668
-#EXTINF:0 tvg-id="TringWorld.al" group-title="AL: -----Dokumentar",AL: Tring World
-http://viperos.net:8080/User18542/WX22GRSm4r/36669
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Dokumentar",AL: NatGeo Wild
-http://viperos.net:8080/User18542/WX22GRSm4r/36670
-#EXTINF:0 tvg-id="AnimalPlanetHD.al" group-title="AL: -----Dokumentar",AL: Animal Planet HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36671
-#EXTINF:0 tvg-id="DiscoveryChannel.al" group-title="AL: -----Dokumentar",AL: Discovery
-http://viperos.net:8080/User18542/WX22GRSm4r/36672
+#EXTINF:0 tvg-id="GOLD.uk" group-title="KINEMAJA SHQIP",GOLD HD
+http://lilitv.xyz:80/Iliri/Leshan/1384
+#EXTINF:0 tvg-id="MaxHD.mx" group-title="KINEMAJA SHQIP",MAX HD
+http://lilitv.xyz:80/Iliri/Leshan/1386
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",AKSION HD
+http://lilitv.xyz:80/Iliri/Leshan/1388
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="KINEMAJA SHQIP",THRILLER
+http://lilitv.xyz:80/Iliri/Leshan/1389
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="KINEMAJA SHQIP",HITS HD
+http://lilitv.xyz:80/Iliri/Leshan/1390
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",AUTOR
+http://lilitv.xyz:80/Iliri/Leshan/1391
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DRAMË
+http://lilitv.xyz:80/Iliri/Leshan/1392
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",KOMEDI
+http://lilitv.xyz:80/Iliri/Leshan/1393
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",EUROFILM
+http://lilitv.xyz:80/Iliri/Leshan/1394
+#EXTINF:0 tvg-id="Stinet.al" group-title="KINEMAJA SHQIP",STINËT
+http://lilitv.xyz:80/Iliri/Leshan/1395
+#EXTINF:0 tvg-id="PlusHD.al" group-title="KINEMAJA SHQIP",FAMILY HD
+http://lilitv.xyz:80/Iliri/Leshan/1396
+#EXTINF:0 tvg-id="T.al" group-title="KINEMAJA SHQIP",T HD
+http://lilitv.xyz:80/Iliri/Leshan/1397
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",ART Kino 1
+http://lilitv.xyz:80/Iliri/Leshan/1379
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",ART Kino 2
+http://lilitv.xyz:80/Iliri/Leshan/1380
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",ART Kino 3
+http://lilitv.xyz:80/Iliri/Leshan/1381
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",EPISODE
+http://lilitv.xyz:80/Iliri/Leshan/1382
+#EXTINF:0 tvg-id="prime-md" group-title="KINEMAJA SHQIP",PRIME
+http://lilitv.xyz:80/Iliri/Leshan/36004
+#EXTINF:0 tvg-id="3Plus.al" group-title="KINEMAJA SHQIP",TRING 3+
+http://lilitv.xyz:80/Iliri/Leshan/1401
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TRING SUPER HD
+http://lilitv.xyz:80/Iliri/Leshan/1402
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TRING ACTION HD
+http://lilitv.xyz:80/Iliri/Leshan/1404
+#EXTINF:0 tvg-id="TringComedy.al" group-title="KINEMAJA SHQIP",TRING COMEDY
+http://lilitv.xyz:80/Iliri/Leshan/1405
+#EXTINF:0 tvg-id="TringLife.al" group-title="KINEMAJA SHQIP",TRING LIFE
+http://lilitv.xyz:80/Iliri/Leshan/1406
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="KINEMAJA SHQIP",TRING FANTASY
+http://lilitv.xyz:80/Iliri/Leshan/1407
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="KINEMAJA SHQIP",TRING SHQIP
+http://lilitv.xyz:80/Iliri/Leshan/1408
+#EXTINF:0 tvg-id="JollyHD.al" group-title="KINEMAJA SHQIP",TRING JOLLY HD
+http://lilitv.xyz:80/Iliri/Leshan/1409
+#EXTINF:0 tvg-id="Smile.al" group-title="KINEMAJA SHQIP",SMILE
+http://lilitv.xyz:80/Iliri/Leshan/1410
+#EXTINF:0 tvg-id="SkyMax.uk" group-title="KINEMAJA SHQIP",SKY MAX
+http://lilitv.xyz:80/Iliri/Leshan/1432
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="KINEMAJA SHQIP",SKY AKSION
+http://lilitv.xyz:80/Iliri/Leshan/1433
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",SKY DRAMË
+http://lilitv.xyz:80/Iliri/Leshan/1434
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="KINEMAJA SHQIP",SKY KOMEDI
+http://lilitv.xyz:80/Iliri/Leshan/48947
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",SKY NOVELA
+http://lilitv.xyz:80/Iliri/Leshan/1435
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE 1
+http://lilitv.xyz:80/Iliri/Leshan/1436
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE 2
+http://lilitv.xyz:80/Iliri/Leshan/1437
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE 3
+http://lilitv.xyz:80/Iliri/Leshan/1438
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE 4
+http://lilitv.xyz:80/Iliri/Leshan/1439
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE 5
+http://lilitv.xyz:80/Iliri/Leshan/1440
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE 6
+http://lilitv.xyz:80/Iliri/Leshan/1441
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE AKSION
+http://lilitv.xyz:80/Iliri/Leshan/1443
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE AVENTURE
+http://lilitv.xyz:80/Iliri/Leshan/1444
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE CRIME
+http://lilitv.xyz:80/Iliri/Leshan/1445
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE GOLD COLLECTION
+http://lilitv.xyz:80/Iliri/Leshan/1446
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE FANTASY
+http://lilitv.xyz:80/Iliri/Leshan/1447
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE THRILER
+http://lilitv.xyz:80/Iliri/Leshan/1448
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE DRAMA
+http://lilitv.xyz:80/Iliri/Leshan/1449
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",TELEONE EPIK
+http://lilitv.xyz:80/Iliri/Leshan/1450
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Aksion FHD
+http://lilitv.xyz:80/Iliri/Leshan/41942
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Deluxe FHD
+http://lilitv.xyz:80/Iliri/Leshan/41943
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Special FHD
+http://lilitv.xyz:80/Iliri/Leshan/41944
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Komedi FHD
+http://lilitv.xyz:80/Iliri/Leshan/41945
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Horror FHD
+http://lilitv.xyz:80/Iliri/Leshan/41946
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Thriller FHD
+http://lilitv.xyz:80/Iliri/Leshan/41947
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Western FHD
+http://lilitv.xyz:80/Iliri/Leshan/41948
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Classic FHD
+http://lilitv.xyz:80/Iliri/Leshan/41949
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Family FHD
+http://lilitv.xyz:80/Iliri/Leshan/41950
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Fantazi FHD
+http://lilitv.xyz:80/Iliri/Leshan/41951
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Romance FHD
+http://lilitv.xyz:80/Iliri/Leshan/41952
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",Dark Hindi FHD
+http://lilitv.xyz:80/Iliri/Leshan/41953
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Gold 1 HD
+http://lilitv.xyz:80/Iliri/Leshan/41930
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Gold 2 HD
+http://lilitv.xyz:80/Iliri/Leshan/41931
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Gold 3 HD
+http://lilitv.xyz:80/Iliri/Leshan/41932
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Gold 4 HD
+http://lilitv.xyz:80/Iliri/Leshan/41933
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Prime 1 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41934
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Prime 2 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41935
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Prime 3 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41936
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Prime 4 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41937
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Netflix 1 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41938
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Netflix 2 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41939
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Netflix 3 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41940
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",DARK Netflix 4 FHD
+http://lilitv.xyz:80/Iliri/Leshan/41941
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",KINEMA+ milenium 1
+http://lilitv.xyz:80/Iliri/Leshan/23490
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",KINEMA+ milenium 2
+http://lilitv.xyz:80/Iliri/Leshan/23491
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",KINEMA+ milenium 3
+http://lilitv.xyz:80/Iliri/Leshan/23492
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",KINEMA+ milenium 4
+http://lilitv.xyz:80/Iliri/Leshan/23493
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",KINEMA+ GOLD
+http://lilitv.xyz:80/Iliri/Leshan/23495
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",KINEMA+ FAMILY
+http://lilitv.xyz:80/Iliri/Leshan/23497
+#EXTINF:0 tvg-id="ext" group-title="KINEMAJA SHQIP",KINEMA+ AKSION
+http://lilitv.xyz:80/Iliri/Leshan/23498
 
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Femije",AL: -----Femije-----
-http://viperos.net:8080/User18542/WX22GRSm4r/36674
-#EXTINF:0 tvg-id="BangBang.al" group-title="AL: -----Femije",AL: Bang Bang
-http://viperos.net:8080/User18542/WX22GRSm4r/36676
-#EXTINF:0 tvg-id="TringTring.al" group-title="AL: -----Femije",AL: Tring Tring
-http://viperos.net:8080/User18542/WX22GRSm4r/36677
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Femije",AL: AL: Tip Tv
-http://viperos.net:8080/User18542/WX22GRSm4r/36684
-#EXTINF:0 tvg-id="JuniorTV.al" group-title="AL: -----Femije",AL: Junior TV
-http://viperos.net:8080/User18542/WX22GRSm4r/36685
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Femije",AL: Baby tv AL
-http://viperos.net:8080/User18542/WX22GRSm4r/36687
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Femije",AL: RTV 21 Junior
-http://viperos.net:8080/User18542/WX22GRSm4r/36689
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Femije",AL: ALB Kids
-http://viperos.net:8080/User18542/WX22GRSm4r/36690
+#EXTINF:0 tvg-id="BangBang.al" group-title="FILMA VIZATIMOR",Bang Bang
+http://lilitv.xyz:80/Iliri/Leshan/1472
+#EXTINF:0 tvg-id="CufoTV.al" group-title="FILMA VIZATIMOR",ÇUFO
+http://lilitv.xyz:80/Iliri/Leshan/1473
+#EXTINF:0 tvg-id="ext" group-title="FILMA VIZATIMOR",TOMI DHE GJERI
+http://lilitv.xyz:80/Iliri/Leshan/1474
+#EXTINF:0 tvg-id="ext" group-title="FILMA VIZATIMOR",TRING KIDS
+http://lilitv.xyz:80/Iliri/Leshan/1476
+#EXTINF:0 tvg-id="TringTring.al" group-title="FILMA VIZATIMOR",TRING TRING
+http://lilitv.xyz:80/Iliri/Leshan/1477
+#EXTINF:0 tvg-id="TipTv.al" group-title="FILMA VIZATIMOR",tip tv
+http://lilitv.xyz:80/Iliri/Leshan/1478
+#EXTINF:0 tvg-id="Junior.de" group-title="FILMA VIZATIMOR",junior
+http://lilitv.xyz:80/Iliri/Leshan/1479
+#EXTINF:0 tvg-id="ext" group-title="FILMA VIZATIMOR",sofia HD
+http://lilitv.xyz:80/Iliri/Leshan/1480
+#EXTINF:0 tvg-id="baby-tv" group-title="FILMA VIZATIMOR",Baby tv
+http://lilitv.xyz:80/Iliri/Leshan/1481
+#EXTINF:0 tvg-id="boomerang" group-title="FILMA VIZATIMOR",BOOMERANG
+http://lilitv.xyz:80/Iliri/Leshan/1482
+#EXTINF:0 tvg-id="duck" group-title="FILMA VIZATIMOR",duck tv
+http://lilitv.xyz:80/Iliri/Leshan/1483
+#EXTINF:0 tvg-id="ext" group-title="FILMA VIZATIMOR",21 JUNIOR HD
+http://lilitv.xyz:80/Iliri/Leshan/1484
+#EXTINF:0 tvg-id="ext" group-title="FILMA VIZATIMOR",Masha dhe Ariu
+http://lilitv.xyz:80/Iliri/Leshan/1485
 
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: -----Muzik-----
-http://viperos.net:8080/User18542/WX22GRSm4r/36693
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",Shqiponja
-http://host.serveri.stream:8080/shqiponja/tv/236
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: RTV 21 Plus HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36694
-#EXTINF:0 tvg-id="21Popullore.al" group-title="AL: -----Muzik",AL: RTV 21 Popullore
-http://viperos.net:8080/User18542/WX22GRSm4r/36695
-#EXTINF:0 tvg-id="FolkPlus.al" group-title="AL: -----Muzik",AL: Folk Plus
-http://viperos.net:8080/User18542/WX22GRSm4r/36696
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: RTV Fontana
-http://viperos.net:8080/User18542/WX22GRSm4r/36697
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: Top Estrada
-http://viperos.net:8080/User18542/WX22GRSm4r/36698
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: TV Shenja
-http://viperos.net:8080/User18542/WX22GRSm4r/36700
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: Star Plus TV Albania
-http://viperos.net:8080/User18542/WX22GRSm4r/36704
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: TV Shari
-http://viperos.net:8080/User18542/WX22GRSm4r/36705
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: TV Elrodi
-http://viperos.net:8080/User18542/WX22GRSm4r/36706
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: RTSH Shqip
-http://viperos.net:8080/User18542/WX22GRSm4r/36708
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: RTSH 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36709
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: RTSH 24
-http://viperos.net:8080/User18542/WX22GRSm4r/36710
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: RTV 21 MIX
-http://viperos.net:8080/User18542/WX22GRSm4r/36712
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: RTSH Muzike
-http://viperos.net:8080/User18542/WX22GRSm4r/36713
-#EXTINF:0 tvg-id="Living.al" group-title="AL: -----Muzik",AL: Living HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36715
-#EXTINF:0 tvg-id="Smile.al" group-title="AL: -----Muzik",AL: Tring Smile
-http://viperos.net:8080/User18542/WX22GRSm4r/36716
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Muzik",AL: A1 Report
-http://viperos.net:8080/User18542/WX22GRSm4r/36717
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Elrodi tv
+http://lilitv.xyz:80/Iliri/Leshan/1498
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="MUZIKE SHQIP",FOLK
+http://lilitv.xyz:80/Iliri/Leshan/1499
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",BBF Music TV
+http://lilitv.xyz:80/Iliri/Leshan/1500
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",MFM
+http://lilitv.xyz:80/Iliri/Leshan/1501
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",MTV KOSOVA
+http://lilitv.xyz:80/Iliri/Leshan/1502
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",MY MUZIK
+http://lilitv.xyz:80/Iliri/Leshan/1503
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",DASMA
+http://lilitv.xyz:80/Iliri/Leshan/1504
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",DARK Popullore HD
+http://lilitv.xyz:80/Iliri/Leshan/1527
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",DARK Tallava HD
+http://lilitv.xyz:80/Iliri/Leshan/36034
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",DARK Çifteli HD
+http://lilitv.xyz:80/Iliri/Leshan/36035
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",DARK Hits HD
+http://lilitv.xyz:80/Iliri/Leshan/36037
+#EXTINF:0 tvg-id="opoja.tv" group-title="MUZIKE SHQIP",OPOjA
+http://lilitv.xyz:80/Iliri/Leshan/1505
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",SHARRI TV
+http://lilitv.xyz:80/Iliri/Leshan/1506
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",ZICO TV FHD
+http://lilitv.xyz:80/Iliri/Leshan/1507
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="MUZIKE SHQIP",SUPERSONIC
+http://lilitv.xyz:80/Iliri/Leshan/1510
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",AMOL HD
+http://lilitv.xyz:80/Iliri/Leshan/1511
+#EXTINF:0 tvg-id="RomaTV.it" group-title="MUZIKE SHQIP",ROMA TV
+http://lilitv.xyz:80/Iliri/Leshan/1512
+#EXTINF:0 tvg-id="Balkanika.bg" group-title="MUZIKE SHQIP",BALKANIKA
+http://lilitv.xyz:80/Iliri/Leshan/1513
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",turbo CHANNEL
+http://lilitv.xyz:80/Iliri/Leshan/1515
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Melody.tv
+http://lilitv.xyz:80/Iliri/Leshan/1518
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",TOP ESTRADA
+http://lilitv.xyz:80/Iliri/Leshan/1519
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Klan Muzike
+http://lilitv.xyz:80/Iliri/Leshan/1523
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice RAP
+http://lilitv.xyz:80/Iliri/Leshan/39564
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice RAP 2K
+http://lilitv.xyz:80/Iliri/Leshan/39565
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice HIP-HOP  R&B
+http://lilitv.xyz:80/Iliri/Leshan/39566
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice HIT LIST
+http://lilitv.xyz:80/Iliri/Leshan/39567
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice MEXICANA
+http://lilitv.xyz:80/Iliri/Leshan/39568
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice POP HITS
+http://lilitv.xyz:80/Iliri/Leshan/39569
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice R&B 2K
+http://lilitv.xyz:80/Iliri/Leshan/39570
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice MUSICA URBANA
+http://lilitv.xyz:80/Iliri/Leshan/39571
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice ROCK
+http://lilitv.xyz:80/Iliri/Leshan/39572
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice TROPICALES
+http://lilitv.xyz:80/Iliri/Leshan/39574
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",Music Choice KIDZ
+http://lilitv.xyz:80/Iliri/Leshan/39575
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",VEVO R&B
+http://lilitv.xyz:80/Iliri/Leshan/49932
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",VEVO HIP-HOP
+http://lilitv.xyz:80/Iliri/Leshan/49933
+#EXTINF:0 tvg-id="ext" group-title="MUZIKE SHQIP",VEVO LATINO
+http://lilitv.xyz:80/Iliri/Leshan/49934
 
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: -----Filma-----
-http://viperos.net:8080/User18542/WX22GRSm4r/36719
-#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="AL: -----Filma",AL: Film Nje HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36720
-#EXTINF:0 tvg-id="FilmDyHD.al" group-title="AL: -----Filma",AL: Film Dy HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36721
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Family HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36722
-#EXTINF:0 tvg-id="FilmHits.al" group-title="AL: -----Filma",AL: Film Hits
-http://viperos.net:8080/User18542/WX22GRSm4r/36723
-#EXTINF:0 tvg-id="FilmAksion.al" group-title="AL: -----Filma",AL: Film Aksion
-http://viperos.net:8080/User18542/WX22GRSm4r/36724
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="AL: -----Filma",AL: Film Komedi
-http://viperos.net:8080/User18542/WX22GRSm4r/36725
-#EXTINF:0 tvg-id="FilmThriller.al" group-title="AL: -----Filma",AL: Film Thriller
-http://viperos.net:8080/User18542/WX22GRSm4r/36726
-#EXTINF:0 tvg-id="FilmAutor.al" group-title="AL: -----Filma",AL: Film Autor
-http://viperos.net:8080/User18542/WX22GRSm4r/36727
-#EXTINF:0 tvg-id="FilmDrame.al" group-title="AL: -----Filma",AL: Film Drame
-http://viperos.net:8080/User18542/WX22GRSm4r/36728
-#EXTINF:0 tvg-id="JollyHD.al" group-title="AL: -----Filma",AL: Tring Jolly HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36729
-#EXTINF:0 tvg-id="JollyHD.al" group-title="AL: -----Filma",AL: Jolly HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36730
-#EXTINF:0 tvg-id="TringSuper.al" group-title="AL: -----Filma",AL: Tring Super
-http://viperos.net:8080/User18542/WX22GRSm4r/36731
-#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="AL: -----Filma",AL: Tring Shqip
-http://viperos.net:8080/User18542/WX22GRSm4r/36732
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Tring Action
-http://viperos.net:8080/User18542/WX22GRSm4r/36733
-#EXTINF:0 tvg-id="TringFantazi.al" group-title="AL: -----Filma",AL: Tring Fantasy
-http://viperos.net:8080/User18542/WX22GRSm4r/36735
-#EXTINF:0 tvg-id="TringLife.al" group-title="AL: -----Filma",AL: Tring Life
-http://viperos.net:8080/User18542/WX22GRSm4r/36736
-#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="AL: -----Filma",AL: Tring Shqip
-http://viperos.net:8080/User18542/WX22GRSm4r/36737
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Alb Humor
-http://viperos.net:8080/User18542/WX22GRSm4r/36738
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: RTSH Film
-http://viperos.net:8080/User18542/WX22GRSm4r/36739
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Film Gold 2
-http://viperos.net:8080/User18542/WX22GRSm4r/36740
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Digi Gold 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36742
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Digi Gold 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36743
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Digi X Gold 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36744
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Digi Gold 3
-http://viperos.net:8080/User18542/WX22GRSm4r/36745
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Euro Film 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36762
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Family FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/36766
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Sky Aksions
-http://viperos.net:8080/User18542/WX22GRSm4r/36768
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Sky Histori
-http://viperos.net:8080/User18542/WX22GRSm4r/36770
-#EXTINF:0 tvg-id="FilmKomedi.al" group-title="AL: -----Filma",AL: Sky Komedi
-http://viperos.net:8080/User18542/WX22GRSm4r/36771
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Sky Max
-http://viperos.net:8080/User18542/WX22GRSm4r/36772
-#EXTINF:0 tvg-id="EXPShkence.al" group-title="AL: -----Filma",AL: Sky Shkence
-http://viperos.net:8080/User18542/WX22GRSm4r/36774
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: X Shkenc
-http://viperos.net:8080/User18542/WX22GRSm4r/36780
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: X Natyre
-http://viperos.net:8080/User18542/WX22GRSm4r/36781
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: X Humor
-http://viperos.net:8080/User18542/WX22GRSm4r/36782
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: X Action
-http://viperos.net:8080/User18542/WX22GRSm4r/36784
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Alb Thriller
-http://viperos.net:8080/User18542/WX22GRSm4r/36791
-#EXTINF:0 tvg-id="Fox.al" group-title="AL: -----Filma",AL: Fox
-http://viperos.net:8080/User18542/WX22GRSm4r/36809
-#EXTINF:0 tvg-id="FoxCrime.al" group-title="AL: -----Filma",AL: Fox Crime
-http://viperos.net:8080/User18542/WX22GRSm4r/36810
-#EXTINF:0 tvg-id="FoxLife.al" group-title="AL: -----Filma",AL: Fox Life
-http://viperos.net:8080/User18542/WX22GRSm4r/36811
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: Fox Movies
-http://viperos.net:8080/User18542/WX22GRSm4r/36812
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: HBO FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/36813
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: HBO 3
-http://viperos.net:8080/User18542/WX22GRSm4r/36814
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Filma",AL: HBO 2 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/36815
+#EXTINF:0 tvg-id="SuperSport1.al" group-title="SPORT SHQIP",Super Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/1532
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="SPORT SHQIP",Super Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/1533
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="SPORT SHQIP",Super Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/1534
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="SPORT SHQIP",Super Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/1535
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="SPORT SHQIP",Super Sport 5
+http://lilitv.xyz:80/Iliri/Leshan/1536
+#EXTINF:0 tvg-id="SuperSport6.al" group-title="SPORT SHQIP",Super Sport 6
+http://lilitv.xyz:80/Iliri/Leshan/41871
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Super Sport 1 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49936
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Super Sport 2 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49937
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Super Sport 3 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49938
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Super Sport 4 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49939
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Super Sport 5 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49940
+#EXTINF:0 tvg-id="SSKosova1.al" group-title="SPORT SHQIP",Super Sport Kosova 1
+http://lilitv.xyz:80/Iliri/Leshan/49929
+#EXTINF:0 tvg-id="SSKosova2.al" group-title="SPORT SHQIP",Super Sport Kosova 2
+http://lilitv.xyz:80/Iliri/Leshan/49930
+#EXTINF:0 tvg-id="SSKosova3.al" group-title="SPORT SHQIP",Super Sport Kosova 3
+http://lilitv.xyz:80/Iliri/Leshan/49931
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",K Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/1546
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",K Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/1547
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",K Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/1548
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",K Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/1549
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",ART Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/1529
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",ART Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/1530
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",ART Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/1531
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",ART Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/34377
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",ART Sport 5
+http://lilitv.xyz:80/Iliri/Leshan/34378
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",ART Sport 6
+http://lilitv.xyz:80/Iliri/Leshan/34379
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="SPORT SHQIP",Tring Sport News
+http://lilitv.xyz:80/Iliri/Leshan/1537
+#EXTINF:0 tvg-id="TS1HD.al" group-title="SPORT SHQIP",Tring Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/1542
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Tring Sport 1 (1080P)
+http://lilitv.xyz:80/Iliri/Leshan/49935
+#EXTINF:0 tvg-id="TS2HD.al" group-title="SPORT SHQIP",Tring Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/1543
+#EXTINF:0 tvg-id="TS3HD.al" group-title="SPORT SHQIP",Tring Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/1544
+#EXTINF:0 tvg-id="TS4HD.al" group-title="SPORT SHQIP",Tring Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/1545
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Tring Sport 1 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49941
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Tring Sport 2 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49942
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Tring Sport 3 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49943
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",Tring Sport 4 (B)
+http://lilitv.xyz:80/Iliri/Leshan/49944
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",OVERSPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/39560
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",OVERSPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/39561
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",OVERSPORT 3
+http://lilitv.xyz:80/Iliri/Leshan/39562
+#EXTINF:0 tvg-id="ext" group-title="SPORT SHQIP",OVERSPORT 4
+http://lilitv.xyz:80/Iliri/Leshan/39563
 
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AL: -----Sport-----
-http://viperos.net:8080/User18542/WX22GRSm4r/36816
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AL: Super Sport 1
-http://viperos.net:8080/User18542/WX22GRSm4r/36817
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AL: Super Sport 2
-http://viperos.net:8080/User18542/WX22GRSm4r/36818
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AL: Super Sport 3
-http://viperos.net:8080/User18542/WX22GRSm4r/36819
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AL: Super Sport 4
-http://viperos.net:8080/User18542/WX22GRSm4r/36820
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AL: Kujtesa Sport 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36826
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AL: Kujtesa Sport 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/36827
-#EXTINF:0 tvg-id="TS1HD.al" group-title="AL: -----Sport",AL: Tring Sport 1
-http://viperos.net:8080/User18542/WX22GRSm4r/36832
-#EXTINF:0 tvg-id="TS2HD.al" group-title="AL: -----Sport",AL: Tring Sport 2
-http://viperos.net:8080/User18542/WX22GRSm4r/36833
-#EXTINF:0 tvg-id="TS3HD.al" group-title="AL: -----Sport",AL: Tring Sport 3
-http://viperos.net:8080/User18542/WX22GRSm4r/36834
-#EXTINF:0 tvg-id="TS4HD.al" group-title="AL: -----Sport",AL: Tring Sport 4
-http://viperos.net:8080/User18542/WX22GRSm4r/36835
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AL: AL: Tring Sport News
-http://viperos.net:8080/User18542/WX22GRSm4r/36836
-#EXTINF:0 tvg-id="DigiSport1.hu" group-title="AL: -----Sport",HU: Digi Sport 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/37255
-#EXTINF:0 tvg-id="DigiSport1.hu" group-title="AL: -----Sport",HU: Digi Sport 1
-http://viperos.net:8080/User18542/WX22GRSm4r/37256
-#EXTINF:0 tvg-id="DigiSport2.hu" group-title="AL: -----Sport",HU: Digi Sport 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/37257
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",HU: Digi Sport 3 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/37258
-#EXTINF:0 tvg-id="DigiSport3.hu" group-title="AL: -----Sport",HU: Digi Sport 3
-http://viperos.net:8080/User18542/WX22GRSm4r/37259
-#EXTINF:0 tvg-id="M4sport.hu" group-title="AL: -----Sport",HU: M4 Sport HD
-http://viperos.net:8080/User18542/WX22GRSm4r/37260
-#EXTINF:0 tvg-id="M4Sport.hu" group-title="AL: -----Sport",HU: M4 Sport
-http://viperos.net:8080/User18542/WX22GRSm4r/37261
-#EXTINF:0 tvg-id="Sport1.hu" group-title="AL: -----Sport",HU: Sport 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/37262
-#EXTINF:0 tvg-id="Sport2.hu" group-title="AL: -----Sport",HU: Sport 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/37263
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Arena Sport 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273188
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Arena Sport 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273189
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Arena Sport 3 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273190
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Arena Sport 4 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273191
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Arena Sport 5 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273192
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Sport Klub 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273193
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Sport Klub 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273194
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Sport Klub 3 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273195
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Sport Klub 4 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273196
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Sport Klub 8 HD [ Live ]
-http://viperos.net:8080/User18542/WX22GRSm4r/273197
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Sport Klub Golf HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273198
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Sport Klub 7 HD [ Live ]
-http://viperos.net:8080/User18542/WX22GRSm4r/273199
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Hr: Sport Klub 10 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273200
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Arena Sport 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273333
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Arena Sport 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273334
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Arena Sport 3 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273335
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Arena Sport 4 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273336
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Arena Sport 5 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/273337
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Sport Klub HD 1
-http://viperos.net:8080/User18542/WX22GRSm4r/273338
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Sport Klub HD 2
-http://viperos.net:8080/User18542/WX22GRSm4r/273339
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Sport Klub HD 3
-http://viperos.net:8080/User18542/WX22GRSm4r/273340
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",Ex-Yu | Srb: Sport Klub 4
-http://viperos.net:8080/User18542/WX22GRSm4r/273341
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 1
-http://viperos.net:8080/User18542/WX22GRSm4r/38505
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 2
-http://viperos.net:8080/User18542/WX22GRSm4r/38506
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 3
-http://viperos.net:8080/User18542/WX22GRSm4r/38507
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 4
-http://viperos.net:8080/User18542/WX22GRSm4r/38508
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 5
-http://viperos.net:8080/User18542/WX22GRSm4r/38509
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 6
-http://viperos.net:8080/User18542/WX22GRSm4r/38510
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 7
-http://viperos.net:8080/User18542/WX22GRSm4r/38511
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 8
-http://viperos.net:8080/User18542/WX22GRSm4r/38512
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 9
-http://viperos.net:8080/User18542/WX22GRSm4r/38513
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 10
-http://viperos.net:8080/User18542/WX22GRSm4r/38514
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: Bein Spor.ts 11
-http://viperos.net:8080/User18542/WX22GRSm4r/38515
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",AR: BBein Spor.ts 12
-http://viperos.net:8080/User18542/WX22GRSm4r/38516
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Digi Sport 1
-http://viperos.net:8080/User18542/WX22GRSm4r/10035
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Digi Sport 2
-http://viperos.net:8080/User18542/WX22GRSm4r/10036
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Digi Sport 3
-http://viperos.net:8080/User18542/WX22GRSm4r/10037
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Digi Sport 4
-http://viperos.net:8080/User18542/WX22GRSm4r/10038
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Eurosport 2
-http://viperos.net:8080/User18542/WX22GRSm4r/10040
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Telekom Sport 1 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/10046
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Telekom Sport 2 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/10047
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Digi Sport 4 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/10048
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Digi Sport 3 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/10049
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Telekom Sport 3 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/10050
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Telekom Sport 4 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/10051
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Eurosport 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/10092
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Digi Sport 1 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/26784
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Digi Sport 2 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/26785
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Eurosport 1 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/40510
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Eurosport 2 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/40511
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Look Sport HD
-http://viperos.net:8080/User18542/WX22GRSm4r/40512
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Look Sport 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/40513
-#EXTINF:0 tvg-id="ext" group-title="AL: -----Sport",SP: RO: Look Sport 3 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/40514
-
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",•●★-- Romania Sports --★●•
-http://viperos.net:8080/User18542/WX22GRSm4r/233832
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",⚽ Premier League⚽
-http://viperos.net:8080/User18542/WX22GRSm4r/283027
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Sky Sports Premier League
-http://viperos.net:8080/User18542/WX22GRSm4r/282999
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Sky Sports Football
-http://viperos.net:8080/User18542/WX22GRSm4r/283000
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Sky Sports Main Event
-http://viperos.net:8080/User18542/WX22GRSm4r/283001
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Sky Sports Arena
-http://viperos.net:8080/User18542/WX22GRSm4r/283002
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Eurosport 1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/283005
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Eurosport 2 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/283006
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: MUTV HD
-http://viperos.net:8080/User18542/WX22GRSm4r/283009
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: LFC FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/283010
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Freesports
-http://viperos.net:8080/User18542/WX22GRSm4r/283011
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Premier Sports 1
-http://viperos.net:8080/User18542/WX22GRSm4r/283015
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Premier Sports 2
-http://viperos.net:8080/User18542/WX22GRSm4r/283016
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Sky Sports News
-http://viperos.net:8080/User18542/WX22GRSm4r/283017
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Sky Sports Cricket
-http://viperos.net:8080/User18542/WX22GRSm4r/283018
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Sky Sports F1 HD
-http://viperos.net:8080/User18542/WX22GRSm4r/283019
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: Sky Sports Racing
-http://viperos.net:8080/User18542/WX22GRSm4r/283020
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: EIR Sports 1
-http://viperos.net:8080/User18542/WX22GRSm4r/283021
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: EIR Sports 2
-http://viperos.net:8080/User18542/WX22GRSm4r/283022
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: BT Sport 1 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/283023
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: BT Sport 2 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/283024
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: BT Sport 3 FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/283025
-#EXTINF:0 tvg-id="ext" group-title="Romania Sports",SP: Premier League: BT Sport ESPN FHD
-http://viperos.net:8080/User18542/WX22GRSm4r/283026
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Super Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35281
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Super Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35282
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Super Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35283
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Super Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/35284
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Super Sport 5
+http://lilitv.xyz:80/Iliri/Leshan/35285
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Tring Sport News
+http://lilitv.xyz:80/Iliri/Leshan/35286
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Tring Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35287
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Tring Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35288
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Tring Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35289
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Tring Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/35290
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Kujtesa Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35291
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Kujtesa Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35292
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Kujtesa Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35293
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Kujtesa Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/35294
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Art Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35295
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Art Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35296
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Art Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35297
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Art Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/35298
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Art Sport 5
+http://lilitv.xyz:80/Iliri/Leshan/35299
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AL| Art Sport 6
+http://lilitv.xyz:80/Iliri/Leshan/35300
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| SPORT KLUB 1
+http://lilitv.xyz:80/Iliri/Leshan/35301
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| SPORT KLUB 2
+http://lilitv.xyz:80/Iliri/Leshan/35302
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| SPORT KLUB 3
+http://lilitv.xyz:80/Iliri/Leshan/35303
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| SPORT KLUB 4
+http://lilitv.xyz:80/Iliri/Leshan/35304
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| SPORT KLUB 5
+http://lilitv.xyz:80/Iliri/Leshan/35305
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| SPORT KLUB 6
+http://lilitv.xyz:80/Iliri/Leshan/35306
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| ARENA SPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35307
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| ARENA SPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35308
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| ARENA SPORT 3
+http://lilitv.xyz:80/Iliri/Leshan/35309
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| ARENA SPORT 4
+http://lilitv.xyz:80/Iliri/Leshan/35310
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| ARENA SPORT 5
+http://lilitv.xyz:80/Iliri/Leshan/35311
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| ARENA SPORT 6
+http://lilitv.xyz:80/Iliri/Leshan/35312
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| EUROSPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35313
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RS| EUROSPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35314
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| SPORT KLUB 1
+http://lilitv.xyz:80/Iliri/Leshan/35315
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| SPORT KLUB 2
+http://lilitv.xyz:80/Iliri/Leshan/35316
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| SPORT KLUB 3
+http://lilitv.xyz:80/Iliri/Leshan/35317
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| Sport Klub 4
+http://lilitv.xyz:80/Iliri/Leshan/35318
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| Sport Klub 5
+http://lilitv.xyz:80/Iliri/Leshan/35319
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| Sport Klub 6
+http://lilitv.xyz:80/Iliri/Leshan/35320
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| Sport Klub Golf
+http://lilitv.xyz:80/Iliri/Leshan/35321
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35322
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35323
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 3
+http://lilitv.xyz:80/Iliri/Leshan/35324
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 4
+http://lilitv.xyz:80/Iliri/Leshan/35325
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 5
+http://lilitv.xyz:80/Iliri/Leshan/35326
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 6
+http://lilitv.xyz:80/Iliri/Leshan/35327
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 7
+http://lilitv.xyz:80/Iliri/Leshan/35328
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 8
+http://lilitv.xyz:80/Iliri/Leshan/35329
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 9
+http://lilitv.xyz:80/Iliri/Leshan/35330
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",HR| ARENA SPORT 10
+http://lilitv.xyz:80/Iliri/Leshan/35331
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SL| SPORT TV 1
+http://lilitv.xyz:80/Iliri/Leshan/35332
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SL| SPORT TV 2
+http://lilitv.xyz:80/Iliri/Leshan/35333
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SL| SPORT TV 3
+http://lilitv.xyz:80/Iliri/Leshan/35334
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SL| Sport Klub 1
+http://lilitv.xyz:80/Iliri/Leshan/35335
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SL| Sport Klub 2
+http://lilitv.xyz:80/Iliri/Leshan/35336
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",SL| Sport Klub 3
+http://lilitv.xyz:80/Iliri/Leshan/35337
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="SPORTS WORLD",TR| BEIN SPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35338
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="SPORTS WORLD",TR| BEIN SPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35339
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="SPORTS WORLD",TR| BEIN SPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35340
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="SPORTS WORLD",TR| BEIN SPORTS 4
+http://lilitv.xyz:80/Iliri/Leshan/35341
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="SPORTS WORLD",TR| BEIN SPORTS MAX 1
+http://lilitv.xyz:80/Iliri/Leshan/35342
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",TR| BEIN SPORTS MAX 2
+http://lilitv.xyz:80/Iliri/Leshan/35343
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Blue Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35397
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Blue Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35398
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| BLUE SPORT 3 Bundesliga 1
+http://lilitv.xyz:80/Iliri/Leshan/35399
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Blue Sport EVENT 1
+http://lilitv.xyz:80/Iliri/Leshan/35400
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Blue Sport EVENT 2
+http://lilitv.xyz:80/Iliri/Leshan/35401
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 1
+http://lilitv.xyz:80/Iliri/Leshan/35402
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 2
+http://lilitv.xyz:80/Iliri/Leshan/35403
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 3
+http://lilitv.xyz:80/Iliri/Leshan/35404
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 4
+http://lilitv.xyz:80/Iliri/Leshan/35405
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 5
+http://lilitv.xyz:80/Iliri/Leshan/35406
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 6
+http://lilitv.xyz:80/Iliri/Leshan/35407
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 7
+http://lilitv.xyz:80/Iliri/Leshan/35408
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 8
+http://lilitv.xyz:80/Iliri/Leshan/35409
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",CH| Sky MySports 9
+http://lilitv.xyz:80/Iliri/Leshan/35410
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="SPORTS WORLD",FR| BEIN SPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35411
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="SPORTS WORLD",FR| BEIN SPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35412
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="SPORTS WORLD",FR| BEIN SPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35413
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="SPORTS WORLD",FR| BEIN SPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35414
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="SPORTS WORLD",FR| BEIN SPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35415
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="SPORTS WORLD",FR| BEIN SPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35416
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="SPORTS WORLD",FR| BEIN SPORT MAX 4
+http://lilitv.xyz:80/Iliri/Leshan/35417
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="SPORTS WORLD",FR| BEIN SPORT MAX 5
+http://lilitv.xyz:80/Iliri/Leshan/35418
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="SPORTS WORLD",FR| BEIN SPORT MAX 6
+http://lilitv.xyz:80/Iliri/Leshan/35419
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="SPORTS WORLD",FR| BEIN SPORT MAX 7
+http://lilitv.xyz:80/Iliri/Leshan/35420
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| BEIN SPORT MAX 8
+http://lilitv.xyz:80/Iliri/Leshan/35421
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| BEIN SPORT MAX 9
+http://lilitv.xyz:80/Iliri/Leshan/35422
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| BEIN SPORT MAX 10
+http://lilitv.xyz:80/Iliri/Leshan/35423
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| RMC SPORT NEWS
+http://lilitv.xyz:80/Iliri/Leshan/35424
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| RMC SPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35425
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| RMC SPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35426
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| RMC SPORT 3
+http://lilitv.xyz:80/Iliri/Leshan/35427
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| RMC SPORT 4
+http://lilitv.xyz:80/Iliri/Leshan/35428
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| Amazon Prime Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35429
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| Amazon Prime Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35430
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| Amazon Prime Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35431
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| MULTISPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35440
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| MULTISPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35441
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| MULTISPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35442
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| MULTISPORTS 4
+http://lilitv.xyz:80/Iliri/Leshan/35443
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",FR| MULTISPORTS 5
+http://lilitv.xyz:80/Iliri/Leshan/35444
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",IT| Dazn Sport SERIE A E B SPORT
+http://lilitv.xyz:80/Iliri/Leshan/35445
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",IT| Dazn Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35446
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",IT| Dazn Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35447
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",IT| Dazn Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35448
+#EXTINF:0 tvg-id="SKYSport24.it" group-title="SPORTS WORLD",IT| Sky Sport 24
+http://lilitv.xyz:80/Iliri/Leshan/35454
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",IT| Sky Sport Serie A
+http://lilitv.xyz:80/Iliri/Leshan/35455
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",IT| Sky Sport Football
+http://lilitv.xyz:80/Iliri/Leshan/35457
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",IT| Sky Sport Arena
+http://lilitv.xyz:80/Iliri/Leshan/35458
+#EXTINF:0 tvg-id="OTESport1.gr" group-title="SPORTS WORLD",GR| COSMOTE SPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35600
+#EXTINF:0 tvg-id="OTESport2.gr" group-title="SPORTS WORLD",GR| COSMOTE SPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35601
+#EXTINF:0 tvg-id="OTESport3.gr" group-title="SPORTS WORLD",GR| COSMOTE SPORT 3
+http://lilitv.xyz:80/Iliri/Leshan/35602
+#EXTINF:0 tvg-id="OTESport4.gr" group-title="SPORTS WORLD",GR| COSMOTE SPORT 4
+http://lilitv.xyz:80/Iliri/Leshan/35603
+#EXTINF:0 tvg-id="OTESport5.gr" group-title="SPORTS WORLD",GR| COSMOTE SPORT 5
+http://lilitv.xyz:80/Iliri/Leshan/35604
+#EXTINF:0 tvg-id="OTESport6.gr" group-title="SPORTS WORLD",GR| COSMOTE SPORT 6
+http://lilitv.xyz:80/Iliri/Leshan/35605
+#EXTINF:0 tvg-id="OTESport7.gr" group-title="SPORTS WORLD",GR| COSMOTE SPORT 7
+http://lilitv.xyz:80/Iliri/Leshan/35606
+#EXTINF:0 tvg-id="OTESport8.gr" group-title="SPORTS WORLD",GR| COSMOTE SPORT 8
+http://lilitv.xyz:80/Iliri/Leshan/35607
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",GR| COSMOTE SPORT 9
+http://lilitv.xyz:80/Iliri/Leshan/35608
+#EXTINF:0 tvg-id="NovaSports1.gr" group-title="SPORTS WORLD",GR| NOVA SPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35609
+#EXTINF:0 tvg-id="NovaSports2.gr" group-title="SPORTS WORLD",GR| NOVA SPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35610
+#EXTINF:0 tvg-id="NovaSports3.gr" group-title="SPORTS WORLD",GR| NOVA SPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35611
+#EXTINF:0 tvg-id="NovaSports4.gr" group-title="SPORTS WORLD",GR| NOVA SPORTS 4
+http://lilitv.xyz:80/Iliri/Leshan/35612
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",GR| NOVA SPORTS 5
+http://lilitv.xyz:80/Iliri/Leshan/35613
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",GR| NOVA SPORTS 6
+http://lilitv.xyz:80/Iliri/Leshan/35614
+#EXTINF:0 tvg-id="DigiSport1.ro" group-title="SPORTS WORLD",RO| DIGI SPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35620
+#EXTINF:0 tvg-id="DigiSport2.ro" group-title="SPORTS WORLD",RO| DIGI SPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35621
+#EXTINF:0 tvg-id="DigiSport3.ro" group-title="SPORTS WORLD",RO| DIGI SPORT 3
+http://lilitv.xyz:80/Iliri/Leshan/35622
+#EXTINF:0 tvg-id="DigiSport4.ro" group-title="SPORTS WORLD",RO| DIGI SPORT 4
+http://lilitv.xyz:80/Iliri/Leshan/35623
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RO| LOOK SPORT
+http://lilitv.xyz:80/Iliri/Leshan/35627
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RO| Look Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35628
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",RO| Look Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35629
+#EXTINF:0 tvg-id="TelekomSport1.ro" group-title="SPORTS WORLD",RO| TELEKOM SPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35630
+#EXTINF:0 tvg-id="TelekomSport2.ro" group-title="SPORTS WORLD",RO| TELEKOM SPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35631
+#EXTINF:0 tvg-id="TelekomSport3.ro" group-title="SPORTS WORLD",RO| TELEKOM SPORT 3
+http://lilitv.xyz:80/Iliri/Leshan/35632
+#EXTINF:0 tvg-id="TelekomSport4.ro" group-title="SPORTS WORLD",RO| TELEKOM SPORT 4
+http://lilitv.xyz:80/Iliri/Leshan/35633
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="SPORTS WORLD",PL| ELEVEN SPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35634
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="SPORTS WORLD",PL| ELEVEN SPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35635
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="SPORTS WORLD",PL| ELEVEN SPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35636
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| ELEVEN SPORTS 4
+http://lilitv.xyz:80/Iliri/Leshan/35637
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| POLSAT SPORT PREMIUM 1
+http://lilitv.xyz:80/Iliri/Leshan/35640
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| POLSAT SPORT PREMIUM 2
+http://lilitv.xyz:80/Iliri/Leshan/35641
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| POLSAT SPORT PREMIUM PPV3
+http://lilitv.xyz:80/Iliri/Leshan/35642
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| POLSAT SPORT PREMIUM PPV4
+http://lilitv.xyz:80/Iliri/Leshan/35643
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| POLSAT SPORT PREMIUM PPV5
+http://lilitv.xyz:80/Iliri/Leshan/35644
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| POLSAT SPORT PREMIUM PPV6
+http://lilitv.xyz:80/Iliri/Leshan/35645
+#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="SPORTS WORLD",PL| POLSAT SPORT EXTRA
+http://lilitv.xyz:80/Iliri/Leshan/35646
+#EXTINF:0 tvg-id="PolsatSportFight.pl" group-title="SPORTS WORLD",PL| POLSAT SPORT FIGHT
+http://lilitv.xyz:80/Iliri/Leshan/35647
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| CANAL+ SPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35648
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="SPORTS WORLD",PL| CANAL+ SPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35649
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| CANAL+ SPORT 3
+http://lilitv.xyz:80/Iliri/Leshan/35650
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PL| CANAL+ SPORT 4
+http://lilitv.xyz:80/Iliri/Leshan/35651
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",BE| ELEVENSPORT 1 (BE)
+http://lilitv.xyz:80/Iliri/Leshan/35667
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",BE| ELEVENSPORT 1 (FR)
+http://lilitv.xyz:80/Iliri/Leshan/35668
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",BE| ELEVENSPORT 2 (BE)
+http://lilitv.xyz:80/Iliri/Leshan/35669
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",BE| ELEVENSPORT 2 (FR)
+http://lilitv.xyz:80/Iliri/Leshan/35670
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",BE| ELEVENSPORT 3 (BE)
+http://lilitv.xyz:80/Iliri/Leshan/35671
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",BE| ELEVENSPORT 3 (FR)
+http://lilitv.xyz:80/Iliri/Leshan/35672
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| FOX SPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35673
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| FOX SPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35674
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| FOX SPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35675
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| FOX SPORTS 4
+http://lilitv.xyz:80/Iliri/Leshan/35676
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| FOX SPORTS 5
+http://lilitv.xyz:80/Iliri/Leshan/35677
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| FOX SPORTS 6
+http://lilitv.xyz:80/Iliri/Leshan/35678
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Ziggo Sport Voetbal
+http://lilitv.xyz:80/Iliri/Leshan/35679
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Ziggo Sport Voetbal
+http://lilitv.xyz:80/Iliri/Leshan/35680
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Ziggo Sport Select
+http://lilitv.xyz:80/Iliri/Leshan/35681
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Ziggo Sport Select
+http://lilitv.xyz:80/Iliri/Leshan/35682
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Ziggo Sport Racing
+http://lilitv.xyz:80/Iliri/Leshan/35683
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Ziggo Sport Racing
+http://lilitv.xyz:80/Iliri/Leshan/35684
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Ziggo Sport Golf
+http://lilitv.xyz:80/Iliri/Leshan/35685
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Ziggo Sport Extra 2
+http://lilitv.xyz:80/Iliri/Leshan/35686
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Eurosport 1
+http://lilitv.xyz:80/Iliri/Leshan/35687
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| Eurosport 2
+http://lilitv.xyz:80/Iliri/Leshan/35688
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| ESPN 1
+http://lilitv.xyz:80/Iliri/Leshan/35689
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| ESPN 2
+http://lilitv.xyz:80/Iliri/Leshan/35690
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| ESPN 3
+http://lilitv.xyz:80/Iliri/Leshan/35691
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| ESPN 4
+http://lilitv.xyz:80/Iliri/Leshan/35692
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| ESPN 5
+http://lilitv.xyz:80/Iliri/Leshan/35693
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NL| ESPN 6
+http://lilitv.xyz:80/Iliri/Leshan/35694
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="SPORTS WORLD",UK| BT SPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35699
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="SPORTS WORLD",UK| BT SPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35700
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="SPORTS WORLD",UK| SKY SPORTS ACTION
+http://lilitv.xyz:80/Iliri/Leshan/35701
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="SPORTS WORLD",UK| SKY SPORTS ARENA
+http://lilitv.xyz:80/Iliri/Leshan/35702
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="SPORTS WORLD",UK| SKY SPORTS FOOTBALL
+http://lilitv.xyz:80/Iliri/Leshan/35703
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="SPORTS WORLD",UK| SKY SPORTS GOLF
+http://lilitv.xyz:80/Iliri/Leshan/35704
+#EXTINF:0 tvg-id="SkySpNews.uk" group-title="SPORTS WORLD",UK| SKY SPORTS NEWS
+http://lilitv.xyz:80/Iliri/Leshan/35705
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",UK| Sky Sport Premier League
+http://lilitv.xyz:80/Iliri/Leshan/35706
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="SPORTS WORLD",UK| SKY SPORTS MAIN EVENT
+http://lilitv.xyz:80/Iliri/Leshan/35707
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="SPORTS WORLD",UK| SKY SPORTS F1
+http://lilitv.xyz:80/Iliri/Leshan/35708
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPORTS WORLD",UK| SKY SPORTS CRICKET
+http://lilitv.xyz:80/Iliri/Leshan/35709
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="SPORTS WORLD",PT| SPORT TV +
+http://lilitv.xyz:80/Iliri/Leshan/35710
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="SPORTS WORLD",PT| SPORT TV 1
+http://lilitv.xyz:80/Iliri/Leshan/35711
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="SPORTS WORLD",PT| SPORT TV 2
+http://lilitv.xyz:80/Iliri/Leshan/35712
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="SPORTS WORLD",PT| SPORT TV 3
+http://lilitv.xyz:80/Iliri/Leshan/35713
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="SPORTS WORLD",PT| SPORT TV 4
+http://lilitv.xyz:80/Iliri/Leshan/35714
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="SPORTS WORLD",PT| SPORT TV 5
+http://lilitv.xyz:80/Iliri/Leshan/35715
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PT| ELEVEN SPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35716
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PT| ELEVEN SPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35717
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PT| ELEVEN SPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35718
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PT| ELEVEN SPORTS 4
+http://lilitv.xyz:80/Iliri/Leshan/35719
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PT| ELEVEN SPORTS 5
+http://lilitv.xyz:80/Iliri/Leshan/35720
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",PT| ELEVEN SPORTS 6
+http://lilitv.xyz:80/Iliri/Leshan/35721
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="SPORTS WORLD",PT| EUROSPORT 1
+http://lilitv.xyz:80/Iliri/Leshan/35722
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="SPORTS WORLD",PT| EUROSPORT 2
+http://lilitv.xyz:80/Iliri/Leshan/35723
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AU| beIN Sports 1
+http://lilitv.xyz:80/Iliri/Leshan/35724
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AU| beIN Sports 2
+http://lilitv.xyz:80/Iliri/Leshan/35725
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AU| beIN Sports 3
+http://lilitv.xyz:80/Iliri/Leshan/35726
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AU| ESPN 2
+http://lilitv.xyz:80/Iliri/Leshan/35733
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AU| ESPN 1
+http://lilitv.xyz:80/Iliri/Leshan/35734
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AU| Optus Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35743
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AU| Optus Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35744
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AU| Optus Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35745
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 1
+http://lilitv.xyz:80/Iliri/Leshan/35750
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 2
+http://lilitv.xyz:80/Iliri/Leshan/35751
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 3
+http://lilitv.xyz:80/Iliri/Leshan/35752
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 4
+http://lilitv.xyz:80/Iliri/Leshan/35753
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 5
+http://lilitv.xyz:80/Iliri/Leshan/35754
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 6
+http://lilitv.xyz:80/Iliri/Leshan/35755
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 7
+http://lilitv.xyz:80/Iliri/Leshan/35756
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS PREMIUM 1
+http://lilitv.xyz:80/Iliri/Leshan/35757
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS PREMIUM 2
+http://lilitv.xyz:80/Iliri/Leshan/35758
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS PREMIUM 3
+http://lilitv.xyz:80/Iliri/Leshan/35759
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS MAX 1
+http://lilitv.xyz:80/Iliri/Leshan/35760
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS MAX 2
+http://lilitv.xyz:80/Iliri/Leshan/35761
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS MAX 3
+http://lilitv.xyz:80/Iliri/Leshan/35762
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS MAX 4
+http://lilitv.xyz:80/Iliri/Leshan/35763
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS MAX 5
+http://lilitv.xyz:80/Iliri/Leshan/35764
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS MAX 6
+http://lilitv.xyz:80/Iliri/Leshan/35765
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 1 EN
+http://lilitv.xyz:80/Iliri/Leshan/35766
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",AR| beIN SPORTS 2 EN
+http://lilitv.xyz:80/Iliri/Leshan/35767
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 1
+http://lilitv.xyz:80/Iliri/Leshan/35781
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 2
+http://lilitv.xyz:80/Iliri/Leshan/35782
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 3
+http://lilitv.xyz:80/Iliri/Leshan/35783
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 4
+http://lilitv.xyz:80/Iliri/Leshan/35784
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 5
+http://lilitv.xyz:80/Iliri/Leshan/35785
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 6
+http://lilitv.xyz:80/Iliri/Leshan/35786
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 7
+http://lilitv.xyz:80/Iliri/Leshan/35787
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 8
+http://lilitv.xyz:80/Iliri/Leshan/35788
+#EXTINF:0 tvg-id="ext" group-title="SPORTS WORLD",NZ| Sky Sport 9
+http://lilitv.xyz:80/Iliri/Leshan/35789
